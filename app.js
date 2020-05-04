@@ -9,9 +9,7 @@ const _ = require('lodash');
 
 
 const homeStartingContent = "Welcome to My Blog Project. Where you can enter your Daily Journey one day at a time. Document and save it forever.Click Compose to write a new Article. It would be Automatically redirected to the home page";
-const aboutContent = "Hello I am Md Ahsan Raza. Aspiring Web Developer and a Software Engineer. I am a Quick Learner, Passionate about technologies and using them into
-implementing and launching new projects. Looking to start a career as an
-entry-level software engineer with a reputed firm driven by technology";
+const aboutContent = "Hello I am Md Ahsan Raza. Aspiring Web Developer and a Software Engineer. I am a Quick Learner, Passionate about technologies and using them into implementing and launching new projects. Looking to start a career as a entry-level software engineer with a reputed firm driven by technology";
 const contactContent = "This a sample contact page.";
 
 // DATABASE
